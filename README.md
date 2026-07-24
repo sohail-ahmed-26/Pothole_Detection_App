@@ -165,15 +165,8 @@ The YOLOv8 Nano model was successfully trained on the Road Pothole Detection dat
 
 ---
 
-# **📷 Application Screenshots**
 
-The following screenshots demonstrate the complete workflow of the Road Pothole Detection System.
 
-## **🏠 Home Interface**
-
-> Add Screenshot Here
-
-![Home Interface](screen_shot/home.png)
 
 
 ---
